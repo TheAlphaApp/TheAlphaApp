@@ -9,4 +9,5 @@ I am mobile app developer.
 - 😄 Pronouns:  He/him
 
 ### Visitors Count
-![](https://komarev.com/ghpvc/?username=TheAlphaApp) from 06 August 2021.
+##### from 06 August 2021.
+![](https://komarev.com/ghpvc/?username=TheAlphaApp)
