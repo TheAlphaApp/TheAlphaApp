@@ -1,12 +1,9 @@
-### Hi there 👋
+<img alt='Header Image' src='https://i.ibb.co/MGY3Zcj/Twitter-header-1.png3'/>
 
-I am mobile app developer.
-
-- ❤️ I’m currently in love with flutter
-- 🌱 I’m currently learning Android Kotlin and Swift UI
-- 👯 I’m looking to collaborate on open source Flutter project
+- ❤️ I’m in love with [Flutter](https://flutter.dev) and [Dart](https://dart.dev).
+- 🌱 I’m currently learning Android Development ([Kotlin](https://kotlinlang.org/docs/android-overview.html)) and [Python](https://www.python.org/).
+- 👯 I’m looking to collaborate on open source Flutter project - [convapp](https://github.com/TheAlphaApp/convapp).
 - 📫 How to reach me: [Github](https://github.com/TheAlphaApp)
-- 😄 Pronouns:  He/him
 
 ### Visitors Count
 ##### from 06 August 2021.
