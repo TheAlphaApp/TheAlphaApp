@@ -2,7 +2,7 @@
 
 - ❤️ I’m in love with [Flutter](https://flutter.dev) and [Dart](https://dart.dev).
 - 🌱 I’m currently learning Android Development ([Kotlin](https://kotlinlang.org/docs/android-overview.html)) and [Python](https://www.python.org/).
-- 👯 I’m looking to collaborate on open source Flutter project - [convapp](https://github.com/TheAlphaApp/convapp).
+- 👯 I’m looking to collaborate on open source Flutter project - [Memo Martian](https://github.com/TheAlphaApp/memomartian).
 - 📫 How to reach me: [Github](https://github.com/TheAlphaApp)
 
 ### Visitors Count
