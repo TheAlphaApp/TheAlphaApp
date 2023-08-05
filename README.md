@@ -9,7 +9,9 @@
 ![](https://skillicons.dev/icons?i=kotlin,flutter,dart,firebase,androidstudio,idea,vscode,gcp,py,js,jquery,nodejs,java,gradle,linux,git,github,githubactions,html,markdown,regex,sqlite,mysql,atom,codepen,svg,xd,figma)
 
 <h2>Get In Touch </h2>
-📫 Feel free to reach out to me via email.  Let's connect and build amazing things together!
+📫 Feel free to reach out to me via email. Let's connect and build amazing things together!
+
+Email: souravsuman@pm.me
 
 [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto://souravsuman@proton.me)
 <hr/>
